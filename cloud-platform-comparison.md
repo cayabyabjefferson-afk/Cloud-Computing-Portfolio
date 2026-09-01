@@ -54,3 +54,69 @@ I would personally choose Microsoft Azure because it provides a wide range of cl
 * Google Cloud. *Virtual Private Cloud (VPC)*. Google Cloud.
 * Google. *Google's cloud business history*. Google.
 
+
+
+## Checkpoint 5 – Match the Cloud Services
+
+Cloud providers offer different products that perform similar functions. The following table shows equivalent services from AWS, Microsoft Azure, and Google Cloud.
+
+| Service Category        | AWS        | Azure                          | GCP                            |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Cloud Identity / IAM           |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+1. Virtual Machine
+
+**Amazon EC2**, **Azure Virtual Machines**, and **Google Compute Engine** provide virtual computing resources that can run operating systems and applications in the cloud.
+
+2. Object Storage
+
+**Amazon S3**, **Azure Blob Storage**, and **Google Cloud Storage** are object-storage services used to store files, images, videos, backups, and other unstructured data.
+
+3. Identity Management
+
+**AWS IAM**, **Microsoft Entra ID**, and **Google Cloud IAM/Cloud Identity** provide identity and access-management capabilities. They help organizations control users, identities, roles, and permissions when accessing cloud resources.
+
+4. SQL Database
+
+**Amazon RDS**, **Azure SQL Database**, and **Google Cloud SQL** provide managed relational database services. They reduce the amount of database infrastructure that organizations need to manage themselves.
+
+5. Kubernetes
+
+**Amazon EKS**, **Azure Kubernetes Service (AKS)**, and **Google Kubernetes Engine (GKE)** are managed Kubernetes services used to deploy, manage, and scale containerized applications. AWS describes EKS as a managed Kubernetes service, while Google describes GKE as a service for automatically deploying, scaling, and managing Kubernetes.
+
+References
+
+* Amazon Web Services. *Amazon EC2 Documentation*. https://docs.aws.amazon.com/ec2/
+
+* Amazon Web Services. *Amazon S3 Documentation*. https://docs.aws.amazon.com/s3/
+
+* Amazon Web Services. *AWS Identity and Access Management*. https://docs.aws.amazon.com/IAM/
+
+* Amazon Web Services. *Amazon RDS Documentation*. https://docs.aws.amazon.com/rds/
+
+* Amazon Web Services. *Amazon EKS Documentation*. https://docs.aws.amazon.com/eks/
+
+* Microsoft Learn. *Azure Virtual Machines*. https://learn.microsoft.com/en-us/azure/virtual-machines/
+
+* Microsoft Learn. *Azure Blob Storage*. https://learn.microsoft.com/en-us/azure/storage/blobs/
+
+* Microsoft Learn. *Microsoft Entra ID*. https://learn.microsoft.com/en-us/entra/
+
+* Microsoft Learn. *Azure SQL Database*. https://learn.microsoft.com/en-us/azure/azure-sql/database/
+
+* Microsoft Learn. *Azure Kubernetes Service (AKS)*. https://learn.microsoft.com/en-us/azure/aks/
+
+* Google Cloud. *Compute Engine Documentation*. https://cloud.google.com/compute/docs
+
+* Google Cloud. *Cloud Storage Documentation*. https://cloud.google.com/storage/docs
+
+* Google Cloud. *Identity and Access Management*. https://cloud.google.com/iam/docs
+
+* Google Cloud. *Cloud SQL Documentation*. https://cloud.google.com/sql/docs
+
+* Google Cloud. *Google Kubernetes Engine Documentation*. https://cloud.google.com/kubernetes-engine/docs
+
