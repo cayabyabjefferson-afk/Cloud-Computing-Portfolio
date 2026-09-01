@@ -1,16 +1,16 @@
-# Cloud Platform Comparison
+ Cloud Platform Comparison
 
-| Category          | AWS | Microsoft Azure | Google Cloud Platform |
-                    |---|---|---|---|
-| Launch Year       | 2006 | 2010 | 2008 |
-| Compute Service   | Amazon EC2 | Azure Virtual Machines | Compute Engine |
-| Storage Service   | Amazon S3 | Azure Blob Storage | Cloud Storage |
-| Networking Service| Amazon VPC | Azure Virtual Network | Google Cloud VPC |
-| Identity Service  | AWS IAM | Microsoft Entra ID | Cloud Identity |
-| Primary Strength  | Broad service portfolio | Microsoft integration | AI and Kubernetes |
-| Ideal Organizations | Startups and enterprises | Microsoft-based organizations | Data/AI-focused organizations |
+| Category            | AWS                                                         | Microsoft Azure                                | Google Cloud Platform                                            |
+| ------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------- |
+| Launch Year         | 2006                                                        | 2010                                           | 2008                                                             |
+| Compute Service     | Amazon EC2                                                  | Azure Virtual Machines                         | Compute Engine                                                   |
+| Storage Service     | Amazon S3                                                   | Azure Blob Storage                             | Cloud Storage                                                    |
+| Networking Service  | Amazon VPC                                                  | Azure Virtual Network                          | Google Cloud VPC                                                 |
+| Identity Service    | AWS IAM                                                     | Microsoft Entra ID                             | Cloud Identity                                                   |
+| Primary Strength    | Broad range of cloud services                               | Microsoft integration and enterprise solutions | AI, machine learning, data analytics, and Kubernetes             |
+| Ideal Organizations | Startups, enterprises, and organizations of different sizes | Organizations using Microsoft technologies     | Organizations focused on AI, data, and cloud-native applications |
 
-
+## Questions
 
 ### 1. Which cloud provider offers the broadest range of services?
 
@@ -27,8 +27,6 @@ Google Cloud is particularly strong in artificial intelligence, machine learning
 ### 4. Which cloud platform would you personally choose and why?
 
 I would personally choose Microsoft Azure because it provides a wide range of cloud services and has strong integration with Microsoft technologies. It would be a practical choice for organizations that already use Windows Server, Microsoft 365, and Microsoft Entra ID.
-
-
 
 
 ## References
