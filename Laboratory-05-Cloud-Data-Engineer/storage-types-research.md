@@ -12,3 +12,5 @@ Cloud storage can be categorized into three primary types: Block Storage, File S
 ## Why Object Storage Is Best for User-Uploaded Images
 
 Object Storage is the best choice for storing user-uploaded images because it is designed to efficiently store large amounts of unstructured data such as photos and other media files. It can also scale as the number of uploaded images increases, making it suitable for applications that may have many users and images.
+
+
